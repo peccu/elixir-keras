@@ -13,7 +13,7 @@ docker exec -itw /app elixir-keras bash
 docker-compose up -d
 # exec bash
 ./bash.sh
-``
+```
 
 ## Special Thanks
 - [Fix syntax error with Python 3 by adding `make` for installing by peccu Å∑ Pull Request #52 Å∑ hdima/erlport](https://github.com/hdima/erlport/pull/52)
