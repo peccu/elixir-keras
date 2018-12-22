@@ -1,0 +1,3 @@
+%{
+  "erlport": {:git, "https://github.com/peccu/erlport.git", "70bb7a353f6525b801af8af989c74d11cc6fa94f", []},
+}
