@@ -3,6 +3,7 @@ services:
   app:
     image: peccu/elixir-keras
     # build: ./build
+    working_dir: /app
     volumes:
       - ./app:/app
       - ./home:/home/jovyan
