@@ -1,5 +1,7 @@
 # Elixir with Keras
 
+This container includes Elixir based on [jupyter/tensorflow-notebook](https://github.com/jupyter/docker-stacks/tree/master/tensorflow-notebook) container.
+
 ## Use docker
 ```
 docker pull peccu/elixir-keras
